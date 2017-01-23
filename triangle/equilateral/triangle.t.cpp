@@ -33,7 +33,4 @@ TEST(Equilateral, IsNotEquilateralIfAnySideIsNegative){
 
 // REPEAT STEP 1-6 for each test, one by one until done
 
-int main(int argc, char **argv) {
-    testing::InitGoogleTest(&argc, argv);
-    return RUN_ALL_TESTS();
-}
+
